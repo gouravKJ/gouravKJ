@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...JS AND WILL START BACKENED
 - 💞️ I’m looking to collaborate on ...WITH INDUSTRAIAL EXPERICENSES
 - 📫 How to reach me ...@linkedin-https://www.linkedin.com/in/gourav-kumar-jaiswal-b8b55a33b
-- 😄 TECH STACK: HTML CSS JAVASCRIPT
+- 😄 TECH STACK: HTML CSS JAVASCRIPT GIT GITHUB 
 - ⚡ Fun fact: ..
      
 <!---

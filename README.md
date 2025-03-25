@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @gouravKJ
-- 👀 I’m interested in ...  WEB DEVELOPER
-- 🌱 I’m currently learning ...JS AND WILL START BACKENED
-- 💞️ I’m looking to collaborate on ...WITH INDUSTRAIAL EXPERICENSES
-- 📫 How to reach me ...@linkedin-https://www.linkedin.com/in/gourav-kumar-jaiswal-b8b55a33b
-- 😄 TECH STACK: HTML CSS JAVASCRIPT GIT GITHUB 
-- ⚡ Fun fact: ..
-     
-<!---
-gouravKJ/gouravKJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Gourav Kumar Jaiswal
+
+💻 Aspiring Web Developer | 🎨 Frontend Enthusiast | 🔗 Future Backend Explorer
+
+🔹 🔥 Passionate About: Crafting dynamic and visually engaging web experiences.
+🔹 📚 Currently Learning: Deepening my JavaScript skills and stepping into backend development.
+🔹 🤝 Looking to Collaborate: Seeking opportunities to work with industry professionals and gain hands-on experience.
+🔹 🛠 Tech Stack: HTML ⚡ CSS 🎨 JavaScript ⚙️ Git 🔗 GitHub.
+🔹 😂 Fun Fact: I turn caffeine ☕ into clean code!
+
+📩 📢 Let’s Connect: LinkedIn 🚀
+

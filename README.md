@@ -8,5 +8,5 @@
 🔹 🛠 Tech Stack: HTML ⚡ CSS 🎨 JavaScript ⚙️ Git 🔗 GitHub.
 🔹 😂 Fun Fact: I turn caffeine ☕ into clean code!
 
-📩 📢 Let’s Connect: LinkedIn 🚀
+📩 📢 Let’s Connect: LinkedIn-https://www.linkedin.com/in/gourav-kumar-jaiswal-b8b55a33b 🚀
 

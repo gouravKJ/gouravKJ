@@ -27,20 +27,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GouravJaiswal-dev&show_icons=true&theme=radical&hide_border=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GouravJaiswal-dev&layout=compact&theme=radical&hide_border=false" />
-</div>
-
----
-
-### 📅 GitHub Contributions
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=GouravJaiswal-dev&theme=radical&hide_border=false)
-
----
 
 ### 📫 Connect with Me
 

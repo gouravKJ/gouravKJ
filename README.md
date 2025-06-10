@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Gourav Kumar Jaiswal</h1>
 
 <p align="center">
-  💻 Aspiring Web Developer | 🎨 Frontend Enthusiast | 🔧  Backend Developer <br>
+  💻 MERN Stack Developer | 🎨 Frontend Developer | 🔧  Backend Developer <br>
   <i>“Code is like humor. When you have to explain it, it’s bad.”</i> <br>
 </p>
 

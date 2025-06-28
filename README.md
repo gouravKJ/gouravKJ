@@ -44,8 +44,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GouravJaiswal-dev&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GouravJaiswal-dev&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gouravKJ&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouravKJ&layout=compact&theme=radical" height="150"/>
 </p>
 
 ---
@@ -53,16 +53,16 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=GouravJaiswal-dev&theme=react-dark&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=gouravKJ&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
 
 ### 🚀 Featured Projects
 
-- 🔹 [**StayFinder**](https://github.com/GouravJaiswal-dev/stayfinder) – MERN-based Airbnb clone with admin panel & payment integration  
-- 🔹 [**Recipe App**](https://github.com/GouravJaiswal-dev/recipe-app) – Share, explore, and manage recipes with authentication  
-- 🔹 [**Book Haven**](https://github.com/GouravJaiswal-dev/book-haven) – A modern UI for book lovers using HTML, CSS, and animations
+- 🔹 [**StayFinder**](https://github.com/gouravKJ/stayfinder) – MERN-based Airbnb clone with admin panel & payment integration  
+- 🔹 [**Recipe App**](https://github.com/gouravKJ/recipe-app) – Share, explore, and manage recipes with authentication  
+- 🔹 [**Book Haven**](https://github.com/gouravKJ/book-haven) – A modern UI for book lovers using HTML, CSS, and animations
 
 ---
 
@@ -75,7 +75,7 @@
   <a href="mailto:gouravjaiswal2006@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/GouravJaiswal-dev" target="_blank">
+  <a href="https://github.com/gouravKJ" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github"/>
   </a>
 </p>
@@ -85,7 +85,7 @@
 ### 🧭 Visitor Count
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GouravJaiswal-dev&color=brightgreen&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=gouravKJ&color=brightgreen&style=for-the-badge"/>
 </p>
 
 ---

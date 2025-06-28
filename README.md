@@ -11,8 +11,6 @@
 
 - 🔭 Currently building: **Real-world full-stack web apps**
 - 👯 Open to: **Collaborating on open source and hackathons**
-- 🌱 Learning: **Next.js | TypeScript | Tailwind CSS**
-- ⚡ Fun Fact: *I turn ☕ into clean, maintainable code.*
 
 ---
 
@@ -24,7 +22,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <br/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -52,8 +49,6 @@
 
 ### 📈 Contribution Graph
 
-### 📈 Contribution Graph
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gouravKJ&theme=react-dark&hide_border=true" />
 </p>
@@ -61,13 +56,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-- 🔹 [**StayFinder**](https://github.com/gouravKJ/stayfinder) – MERN-based Airbnb clone with admin panel & payment integration  
-- 🔹 [**Recipe App**](https://github.com/gouravKJ/recipe-app) – Share, explore, and manage recipes with authentication  
-- 🔹 [**Book Haven**](https://github.com/gouravKJ/book-haven) – A modern UI for book lovers using HTML, CSS, and animations
-
----
 
 ### 📫 Connect with Me
 

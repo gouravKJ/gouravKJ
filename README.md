@@ -57,6 +57,10 @@
 
 ---
 
+[![An image of @gouravkj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gouravkj)](https://holopin.io/@gouravkj)
+
+---
+
 ### 📫 Connect with Me
 
 <p align="center">
